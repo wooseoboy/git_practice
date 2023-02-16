@@ -1,0 +1,3 @@
+im idiots > hello_git.txt
+cat hello_git.txt
+echo im idiots
